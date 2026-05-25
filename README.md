@@ -1,5 +1,5 @@
 # elt-medallion-architecture-project-repo-dashboard
-# ETL Pipeline using Python & SQL
+# ELT Pipeline using Python & SQL
 
 ## 📌 Overview
 
