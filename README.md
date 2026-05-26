@@ -1,7 +1,7 @@
 # elt-medallion-architecture-project-repo-dashboard
 # ELT Pipeline using Python & SQL
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates an ELT pipeline:
 
@@ -10,18 +10,18 @@ This project demonstrates an ELT pipeline:
 * Transform using Pandas
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
 * SQL
 
-## 🚀 Features
+##  Features
 
 * Data cleaning
 * Automation-ready pipeline
 * Structured data storage
 
-## 📊 Output
+##  Output
 
 Cleaned and structured dataset ready for analysis
