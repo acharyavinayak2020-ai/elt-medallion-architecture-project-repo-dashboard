@@ -1,5 +1,5 @@
-# elt-medallion-architecture-project-repo-dashboard
-# ELT Pipeline using Python & SQL
+# elt-medallion-architecture-project-repo
+# ELT Project using Python & SQL
 
 ##  Overview
 
